@@ -3,7 +3,7 @@
   "require-dev": {
     "phpdocumentor/phpdocumentor": "2.9.*",
     "phpunit/phpunit": "9.1.*"
-  }
+  },
   "autoload": {
     "psr-4": {
       "TicketFinder\\": "src/"
@@ -13,5 +13,5 @@
     "psr-4": {
       "TicketFinder\\Tests\\": "tests/"
     }
-  },
+  }
 }
